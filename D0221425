@@ -1,0 +1,4 @@
+string nama;
+int tgl lahir;
+int umur;
+string domisili;
